@@ -1,9 +1,4 @@
 
-# Ruby program to initialize instance 
-# variable using constructor 
-  
-#!/usr/bin/ruby  
-  
 # class name 
 class Questions
   attr_accessor :answer
